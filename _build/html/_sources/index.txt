@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Tracker-Docs's documentation!然后
+Welcome to Tracker-Docs's documentation!
 ========================================
 
 Contents:
@@ -19,5 +19,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`测试`
 
