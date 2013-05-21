@@ -1,23 +1,9 @@
-.. Tracker-Docs documentation master file, created by
-   sphinx-quickstart on Fri Feb 22 10:18:57 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. title:: PlayData 用户手册
+PlayData 用户手册
+=================================
 
-Welcome to Tracker-Docs's documentation!然后
-========================================
 
-Contents:
+这实际上是中文的一次尝试
 
 .. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`测试`
-
+    /android/helloworld
