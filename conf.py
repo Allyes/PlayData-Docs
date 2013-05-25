@@ -39,7 +39,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tracker-Docs'
+project = u'PlayData-Docs'
 copyright = u'2013, Jialong_Zhang'
 
 # The version info for the project you're documenting, acts as replacement for
