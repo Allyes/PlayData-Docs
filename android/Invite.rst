@@ -10,7 +10,7 @@ PlayData邀请码获取提供五种方式，如下：
 
 3. 电话索取：电话：029-88890294-131
 
-4. 微博私信索取，微博: `PlayData <http://www.playdata.cn>`_
+4. 微博私信索取，微博: `PlayData <http://weibo.com/PlayData>`_
 
 向客服支持人员索取邀请码时，请按照以下内容提供信息；
 
