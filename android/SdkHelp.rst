@@ -15,10 +15,10 @@ Android SDK使用指南
 *********************************************************************************
 
 
-1. 导入PlayData_Android_SDK.jar（简称SDK）
+1. 导入 ``PlayData_Android_SDK.jar`` （简称SDK）
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-首先请在您的工程文件根目录下创建一个名为libs的子目录，并将SDK的JAR包(PlayData_Android_SDK.jar)拷贝到libs目录下。
+首先请在您的工程文件根目录下创建一个名为libs的子目录，并将SDK的JAR包 ``PlayData_Android_SDK.jar`` 拷贝到libs目录下。
 
 对于Eclipse工程，请参照下面的步骤添加JAR包：
 
@@ -30,7 +30,7 @@ Android SDK使用指南
 
 4. 点击“Add JARs…”按钮；
 
-5. 选择您拷贝到libs目录下的PlayData_Android_SDK.jar;
+5. 选择您拷贝到libs目录下的 ``PlayData_Android_SDK.jar`` ;
 
 6. 点击“OK”完成添加，
 
@@ -213,7 +213,7 @@ public void onEvent(Context context, String event_id, String label)
 
 有的事件是持续发生的，需要记录其持续的时间，这里提供两种解决方法。
 
-1. 在事件开始和结束时分别调用onEventBegin和onEventEnd两个函数::
+1. 在事件开始和结束时分别调用 ``onEventBegin`` 和 ``onEventEnd`` 两个函数::
 
     AllyesAgent.onEventBegin(Context context, String event_id);
     
